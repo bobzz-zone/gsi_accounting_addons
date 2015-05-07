@@ -1,0 +1,17 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2015-05-05 15:30:02.682087", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "is_standard": "Yes", 
+ "modified": "2015-05-05 15:35:11.693216", 
+ "modified_by": "Administrator", 
+ "module": "Accounting Addons", 
+ "name": "Production Actual Cost By Spk", 
+ "owner": "Administrator", 
+ "ref_doctype": "Production Cost Closing Voucher", 
+ "report_name": "Production Actual Cost By Spk", 
+ "report_type": "Script Report"
+}
