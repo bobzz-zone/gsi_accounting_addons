@@ -373,7 +373,7 @@ def get_data():
 			]
 		},{
 			"label": _("Custom Reports"),
-			"icon": "icon-list"
+			"icon": "icon-list",
 			"items":[
 				{
 					"type": "report",
